@@ -1,1 +1,1 @@
-Task 0.Where am i?
+Create a script that creates an alias
